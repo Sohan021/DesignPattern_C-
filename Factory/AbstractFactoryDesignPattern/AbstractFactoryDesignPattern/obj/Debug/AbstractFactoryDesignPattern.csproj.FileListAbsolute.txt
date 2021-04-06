@@ -1,0 +1,7 @@
+F:\Study\Work\DesignPattern\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\bin\Debug\AbstractFactoryDesignPattern.exe.config
+F:\Study\Work\DesignPattern\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\bin\Debug\AbstractFactoryDesignPattern.exe
+F:\Study\Work\DesignPattern\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\bin\Debug\AbstractFactoryDesignPattern.pdb
+F:\Study\Work\DesignPattern\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\AbstractFactoryDesignPattern.csprojAssemblyReference.cache
+F:\Study\Work\DesignPattern\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\AbstractFactoryDesignPattern.csproj.CoreCompileInputs.cache
+F:\Study\Work\DesignPattern\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\AbstractFactoryDesignPattern.exe
+F:\Study\Work\DesignPattern\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\AbstractFactoryDesignPattern.pdb
